@@ -1,14 +1,13 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/76744586/216601547-c4fefc0f-4aa8-4917-9ffe-bbbc385a9514.png" title="stove"/>
+<img src="https://user-images.githubusercontent.com/76744586/216604815-07766e83-1338-46ce-bc7e-70e4fa88dac7.png" title="stove"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStove-Org&count_bg=%23F54242&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%94%A5Stove&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 # Stove
 > **Stove** <br/> **개발기간: 2022.10 ~ 2022.11**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHJWHdoS2WQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="MHJWHdoS2WQ" %}
 
 ## TEAM Stove 소개
 |연은빈|장진욱|
