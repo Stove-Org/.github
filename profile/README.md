@@ -7,9 +7,7 @@
 # Stove
 > **Stove** <br/> **개발기간: 2022.10 ~ 2022.11**
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHJWHdoS2WQ?feature=oembed" title="Stove 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+> [Stove 시연영상 보러가기](https://www.youtube.com/MHJWHdoS2WQ)
 
 ## TEAM Stove 소개
 |연은빈|장진욱|
@@ -19,9 +17,9 @@
 |[@okdol1](https://github.com/okdol1)|[@jinukix](https://github.com/jinukix)|
 
 ## 프로젝트 소개
-> **스토브리그** : 정규 시즌이 끝난 이후에, 겨울 시즌 동안 중단되는 것에 착안해 팬들이 난로(Stove) 주위에 모여 선수단, 구단의 동향 등을 이야기하는 데에서 유래했습니다.
+> **스토브리그** : 하계 스포츠인 프로야구 정규 시즌이 끝난 이후에, 겨울 시즌 동안 중단되는 것에 착안해 팬들이 난로(Stove) 주위에 모여 선수단, 구단의 동향 등을 이야기하는 데에서 유래했습니다.
 
-Stove 프로젝트는 e-스포츠 팬들이 LoL World Championship이 끝난 직후 스토브리그 기간을 더 재밌게 보낼 수 있는 플랫폼입니다.
+Stove 프로젝트는 e-스포츠 팬들이 스토브리그 기간을 더 재밌게 보낼 수 있는 플랫폼입니다.
 
 ## 배포 주소
 > 정식 버전 : ~~https://stove.gg/~~ (정비중)
