@@ -8,7 +8,7 @@
 > **Stove** <br/> **개발기간: 2022.10 ~ 2022.11**
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHJWHdoS2WQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHJWHdoS2WQ?feature=oembed" title="Stove 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## TEAM Stove 소개
